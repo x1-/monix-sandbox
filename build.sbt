@@ -1,4 +1,6 @@
-name := "com.inkenkun.x1.monix.sandbox"
+organization := "com.inkenkun.x1"
+
+name := "monix-sandbox"
 
 version := "0.1"
 
